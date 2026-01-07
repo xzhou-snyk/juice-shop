@@ -126,6 +126,7 @@
     "config": "^3.3.12",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
     "dottie": "^2.0.6",
     "download": "^8.0.0",
     "errorhandler": "^1.5.1",
@@ -156,12 +157,7 @@
     "js-yaml": "^3.14.0",
     "jsonwebtoken": "0.4.0",
     "jssha": "^3.3.1",
-<<<<<<< HEAD
-    "juicy-chat-bot": "~0.9.0",
-=======
     "juicy-chat-bot": "^0.8.0",
-    "lodash": "4.17.19",
->>>>>>> c58722eb4 (feat: add lodash dependency)
     "libxmljs2": "~0.37.0",
     "lodash": "4.17.19",
     "marsdb": "^0.6.11",
