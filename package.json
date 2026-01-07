@@ -156,7 +156,12 @@
     "js-yaml": "^3.14.0",
     "jsonwebtoken": "0.4.0",
     "jssha": "^3.3.1",
+<<<<<<< HEAD
     "juicy-chat-bot": "~0.9.0",
+=======
+    "juicy-chat-bot": "^0.8.0",
+    "lodash": "4.17.19",
+>>>>>>> c58722eb4 (feat: add lodash dependency)
     "libxmljs2": "~0.37.0",
     "lodash": "4.17.19",
     "marsdb": "^0.6.11",
@@ -177,6 +182,7 @@
     "semver": "^7.6.3",
     "sequelize": "^6.37.3",
     "serve-index": "^1.9.1",
+    "snyk-to-html": "3.5.1",
     "socket.io": "^3.1.2",
     "sqlite3": "^5.1.7",
     "svg-captcha": "^1.4.0",
